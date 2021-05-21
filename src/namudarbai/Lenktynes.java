@@ -42,7 +42,6 @@ public class Lenktynes {
 //        } while (flag < 1);
 //        
 //        System.out.println("Laimejo automobilis Nr.: " + numeris + "; nuvaziuotas atstumas: " + atstumas + " km");
-
         int[] masinytes = new int[8];
 
         int laimetojas = -1; //
